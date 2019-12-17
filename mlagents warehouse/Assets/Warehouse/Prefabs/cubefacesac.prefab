@@ -160,7 +160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agentParameters:
-    maxStep: 0
+    maxStep: 6000
     resetOnDone: 1
     onDemandDecision: 0
     numberOfActionsBetweenDecisions: 1
