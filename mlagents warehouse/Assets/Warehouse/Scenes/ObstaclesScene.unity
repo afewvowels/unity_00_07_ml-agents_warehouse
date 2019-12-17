@@ -3050,13 +3050,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrainingConfiguration:
-    width: 480
+    width: 720
     height: 480
     qualityLevel: 0
     timeScale: 10
     targetFrameRate: 10
   m_InferenceConfiguration:
-    width: 480
+    width: 720
     height: 480
     qualityLevel: 0
     timeScale: 10
