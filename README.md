@@ -1,6 +1,8 @@
 # ML-Agents | Warehouse
 [Preview](https://youtu.be/DWS-o6cuJOk)
 
+![Preview of scene in Unity](https://github.com/afewvowels/unity_00_07_ml-agents_warehouse/blob/master/images/preview.png)
+
 This started off with a forklift and a box and a barrier, but removing the box from the forklift after parenting it caused all sorts of Rigidbody problems so the agent's just a cube with a ball to put in the goal.
 
 ## Camera controls
