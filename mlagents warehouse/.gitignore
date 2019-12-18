@@ -11,6 +11,7 @@
 /[Mm]emoryCaptures/
 /[Aa]ssets/[Ww]arehouse/[Mm]odels/
 /[Aa]ssets/[Ww]arehouse/[Ss]ummaries/
+/[Aa]ssets/ML-Agents/[Ee]xamples/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
