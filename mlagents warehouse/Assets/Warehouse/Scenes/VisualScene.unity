@@ -151,17 +151,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrainingConfiguration:
-    width: 800
-    height: 800
-    qualityLevel: 1
+    width: 1280
+    height: 720
+    qualityLevel: 0
     timeScale: 10
-    targetFrameRate: 60
+    targetFrameRate: 24
   m_InferenceConfiguration:
     width: 1280
     height: 720
-    qualityLevel: 5
-    timeScale: 2
-    targetFrameRate: 60
+    qualityLevel: 0
+    timeScale: 10
+    targetFrameRate: 24
   resetParameters:
     m_ResetParameters: []
 --- !u!4 &66716499
@@ -288,6 +288,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
@@ -555,6 +560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
@@ -915,6 +925,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: warehousescene
       objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
       propertyPath: m_TargetTexture
@@ -1012,6 +1027,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   warehouses: []
+  uiroots: []
   active: 0
 --- !u!4 &865154252
 Transform:
@@ -1138,6 +1154,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
@@ -1409,6 +1430,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: warehousescene
       objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
       propertyPath: m_TargetTexture
@@ -1586,6 +1612,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
@@ -1769,6 +1800,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
@@ -2032,6 +2068,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: warehousescene
       objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}
       propertyPath: m_TargetTexture
@@ -2203,6 +2244,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: warehousescene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6449324861080846013, guid: c5e1efed0ac70554587b6f53b9f99601,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6663176578831971276, guid: c5e1efed0ac70554587b6f53b9f99601,
         type: 3}

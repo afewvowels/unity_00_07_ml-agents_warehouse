@@ -25,14 +25,14 @@ default:
 
 CubeGuyObstacles:
     learning_rate_schedule: constant
-    batch_size: 256
-    buffer_size: 4096
+    # batch_size: 256
+    # buffer_size: 4096
     max_steps: 1.5e6
     normalize: false
     vis_encode_type: simple
     reward_signals:
         curiosity:
-            strength: 0.02
+            strength: 0.05
             gamma: 0.98
             encoding_size: 128
 
