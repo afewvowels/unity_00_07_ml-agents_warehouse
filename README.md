@@ -7,6 +7,4 @@ This started off with a forklift and a box and a barrier, but removing the box f
 * Q / E to rotate the view 90 degrees
 
 ### Unsuccessful attempts at visual encoding
-There are three scenes included, the SampleScene is the one with just Raycasts and the other two try to use visual sensors. I've had very limited success as evidenced by the below footage:
-
-![Poor performance](https://gfycat.com/threadbareglisteningboa)
+There are three scenes included, the SampleScene is the one with just Raycasts and the other two try to use visual sensors. I've had very limited success as evidenced by [this footage](https://gfycat.com/threadbareglisteningboa).
